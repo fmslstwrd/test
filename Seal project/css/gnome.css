@@ -1,0 +1,22 @@
+header .navbar{
+	background:#FAE03C;
+}
+
+button {
+	margin-right:10px;
+}
+
+.btn-primary {
+	background:#FAE03C;
+	color:black;
+	border:none;
+}
+.article {
+	padding-top: 60px;
+}
+.article img {
+	margin-bottom:10px;
+}
+.red {
+	color:red;
+}	

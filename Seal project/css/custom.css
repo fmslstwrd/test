@@ -1,0 +1,35 @@
+header .navbar{
+	background:#FAE03C;
+}
+.jumbotron h3 {
+	font-size: 24px;
+	margin: 10px;
+	padding-top: 0px;
+	font-family:cursive;
+}
+.jumbotron p {
+	font-size:20px;
+	font-weight:none;
+	font-family:cursive;
+}
+
+button {
+	margin-right:10px;
+}
+
+.jumbotron {
+	padding-top: 60px;
+	margin-top: 60px;
+	background:#F0EDE5;
+}
+.card {
+	padding-bottom: 50px;
+}
+.card img{
+	width:350px;
+}
+.btn-primary {
+	background:#FAE03C;
+	color:black;
+	border:none;
+}
